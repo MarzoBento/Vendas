@@ -1,0 +1,7 @@
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.csproj.AssemblyReference.cache
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.Login.resources
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.csproj.GenerateResource.cache
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.AssemblyInfoInputs.cache
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.AssemblyInfo.cs
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net5.0-windows\PrjVendas.csproj.CoreCompileInputs.cache
