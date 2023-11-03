@@ -53,3 +53,4 @@ D:\Vendass\PrjVendas\PrjVendas\bin\Debug\net6.0-windows\Microsoft.Extensions.Fil
 D:\Vendass\PrjVendas\PrjVendas\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
 D:\Vendass\PrjVendas\PrjVendas\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net6.0-windows\PrjVendas.Login.resources
+D:\Vendass\PrjVendas\PrjVendas\obj\Debug\net6.0-windows\PrjVendas.MDIPRincipal.resources
