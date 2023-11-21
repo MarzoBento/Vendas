@@ -14,7 +14,7 @@ namespace PrjVendas
     {
         private int childFormNumber = 0;
 
-        public MDIPRincipal()
+        public MDIPRincipal(Login frm)
         {
             InitializeComponent();
         }
